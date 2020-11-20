@@ -9,12 +9,12 @@ Raft Project Kick-Off Meeting
 3.	Project Roles and RACI Exercise
 4.	Project Scope
 5.	Project Success Criteria
-6.	Major Deliverables
-7.	Major Milestones
-8.	Project Risks
-9.	Project Assumptions
-10.	Project Constraints
-11.	Project Budget
+6.	Project Risks
+7.	Project Assumptions
+8.	Project Constraints
+9.	Project Budget
+10.	Major Deliverables
+11.	Major Milestones
 12. Action Items
 13. Deferred Items
 
