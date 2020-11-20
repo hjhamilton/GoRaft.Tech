@@ -21,6 +21,7 @@ Raft Project Kick-Off Meeting
 This project will be delivered using Scrum methodology. As defined by the Scrum Alliance, this methodology includes the following ceremonies:
 
 Sprint Planning
+
 This is a meeting that includes the Product Owner, Scrum Master and Development team. The purpose is to determine what items will be included for completion in the upcoming sprint. This is based on a combination of priorities as determined by the Product Owner and capacity as determined by the development team. The Scrum Master or the Product Owner can facilitate this meeting, as appropriate.
 
 Inputs: 
@@ -43,6 +44,7 @@ The daily Scrum meeting is a timeboxed (ideally 15 minutes) meeting during which
 The meeting is intended to be short and focused. Although quick questions can be addressed during Scrum, longer discussions should be deferred until after the meeting.  During the daily Scrum, the Scrum Master will note any impediments affecting the team, that need to be resolved and removed. The Scrum Master will also track progress against the Sprint Backlog and ensure transparency across the organization.
 
 Sprint Review
+
 This meeting takes place near the end of a sprint, when the completed items are ready to be demonstrated for the Product Owner. The team will demo the new functionality in the product increment and the Product Owner will determine whether or not the "definition of done" criteria have been met and the product increment is accepted. Additional stakeholders may be invited to this meeting as appropriate. This meeting is typically facilitated by the Scrum Master or a member of the development team.
 
 Inputs: 
@@ -54,6 +56,7 @@ Outputs:
 - A revised Product Backlog based on decisions made during the Sprint Review.
 
 Sprint Retrospective
+
 This meeting is analogous to the "Lessons Learned" or "Project Post-Mortem" typically held at the end of traditional waterfall projects. It provides an opportunity for the Scrum Master, Product Owner and development team to evaluate the just-completed sprint. The purpose is to identify what went well and how those successes can be repeated in future sprints. Likewise, things that did not go well can be identified for improvement. The entire group can brainstorm proposed process improvements that can be implemented and may also evaluate how well previously planned improvements were implemented. It's helpful to set some ground rules so that the Sprint Retrospective produces honest feedback and continuous improvement, without degenerating into personal conflicts between team members. This meeting is typically facilitated by the Scrum Master and should be interactive, with participation from every team member.
 
 Inputs: 
