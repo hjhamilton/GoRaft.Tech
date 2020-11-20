@@ -22,7 +22,7 @@ This project will be delivered using Scrum methodology. As defined by the Scrum 
 
 Sprint Planning
 
-This is a meeting that includes the Product Owner, Scrum Master and Development team. The purpose is to determine what items will be included for completion in the upcoming sprint. This is based on a combination of priorities as determined by the Product Owner and capacity as determined by the development team. The Scrum Master or the Product Owner can facilitate this meeting, as appropriate.
+This is a meeting that includes the Product Owner, Scrum Master and development team. The purpose is to determine what items will be included for completion in the upcoming sprint. This is based on a combination of (1) priority as determined by the Product Owner and (2) level of effort as determined by the development team and (3) the team's capacity. The Scrum Master or the Product Owner can facilitate this meeting, as appropriate.
 
 Inputs: 
 - A complete, prioritized backlog of outstanding User Stories and Issues. Each item must include a unique priority and a clear "definition of done".
@@ -37,11 +37,11 @@ Outputs:
 Daily Scrum
 
 The daily Scrum meeting is a timeboxed (ideally 15 minutes) meeting during which each team member will share the following:
-- What he/she accomplished yesterday
-- What he/she plans to accomplish today
+- What he/she accomplished yesterday.
+- What he/she plans to accomplish today.
 - What impediments (if any) need to be addressed that are blocking successful completion of one or more items of work.
 
-The meeting is intended to be short and focused. Although quick questions can be addressed during Scrum, longer discussions should be deferred until after the meeting.  During the daily Scrum, the Scrum Master will note any impediments affecting the team, that need to be resolved and removed. The Scrum Master will also track progress against the Sprint Backlog and ensure transparency across the organization.
+The meeting is intended to be short and focused. Although quick questions can be addressed during Scrum, longer discussions should be deferred until after the meeting.  During the daily Scrum, the Scrum Master will note any impediments that need to be resolved and removed. It's the Scrum Master's job to facilitate the elimination of impediments. The Scrum Master will also track progress against the Sprint Backlog and ensure transparency across the organization.
 
 Sprint Review
 
@@ -49,7 +49,7 @@ This meeting takes place near the end of a sprint, when the completed items are 
 
 Inputs: 
 - A completed product increment that is ready to be demonstrated for the Product Owner.
-- The sprint backlog, including acceptance criteria ("Definition of done") for each item.
+- The agreed-upon sprint backlog, including acceptance criteria ("Definition of done") for each item.
 
 Outputs: 
 - Verbal and/or written certification from the Product Owner that the product increment is accepted, or documentation of issues to be addressed and how they will be addressed (e.g., corrected during this sprint, moved to the product backlog, cancelled, etc.)
@@ -67,15 +67,9 @@ Inputs:
 - Action items from the previous Sprint Retrospective.
 - Documented results from the just-completed sprint (e.g., team velocity, items accepted, items not accepted, statistical results).
 - Each team member's observations and feedback concerning the just-completed sprint and suggestions for future sprints.
-- A structured format for the meeting. This is usually chosen by the Scrum Master and can vary from sprint to sprint. There are many established formats that can be utilized.
+- A structured format for the meeting. This is usually chosen by the Scrum Master and can vary from sprint to sprint. There are many known formats that can be utilized.
 
 Outputs:
 - A list of things that went well during the sprint and positive feedback for team members as appropriate.
 - A list of things that need improvement for future sprints.
 - Planned action items and process changes for the next sprint (with specific responsibilities assigned).
-
-
-
-Outputs: 
-- Verbal and/or written certification from the Product Owner that the product increment is accepted, or documentation of issues to be addressed and how they will be addressed (e.g., corrected during this sprint, moved to the product backlog, cancelled, etc.)
-- A revised Product Backlog based on decisions made during the Sprint Review.
